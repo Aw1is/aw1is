@@ -35,7 +35,7 @@
 engineer = {
     "name"        : "Awais Ahmad",
     "degree"      : "M.Sc. Information & Communication Engineering — University of Trento 🎓",
-    "experience"  : "4+ years across network security, automotive QA, FTTH & infrastructure",
+    "experience"  : "3+ years across network security, automotive QA, FTTH & infrastructure",
     "worked_with" : ["Audi AG × Reply", "Deutsche Bahn × Accenture", "VISION PS GmbH", "PTCL"],
     "based_in"    : "Trento, Italy 🇮🇹",
     "available"   : True,
