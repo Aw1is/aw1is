@@ -142,9 +142,7 @@ Stack: Python · Linux · Nmap · Ping · Traceroute · Pandas · Matplotlib
 ```
 ISC2 Certified in Cybersecurity (CC)    [████████░░]  80%
 DHCP · DNS · Active Directory           [██████░░░░]  60%
-Robot Framework                         [████░░░░░░]  40%
 Automotive Ethernet · LIN · UDS · XCP  [████░░░░░░]  40%
-Fortinet NSE 1 & 2                     [███░░░░░░░]  30%
 Italian language (targeting B1)         [███░░░░░░░]  25%
 TryHackMe Jr Penetration Tester        [██░░░░░░░░]  15%
 AWS / Azure Fundamentals               [██░░░░░░░░]  15%
